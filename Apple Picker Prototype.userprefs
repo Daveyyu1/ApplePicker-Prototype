@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Basket.cs">
+    <Files>
+      <File FileName="Assets\AppleTree.cs" Line="36" Column="5" />
+      <File FileName="Assets\Apple.cs" Line="17" Column="30" />
+      <File FileName="Assets\ApplePicker.cs" Line="34" Column="10" />
+      <File FileName="Assets\Basket.cs" Line="34" Column="28" />
+      <File FileName="Assets\HighScore.cs" Line="26" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
